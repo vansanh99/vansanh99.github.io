@@ -1908,7 +1908,7 @@
             <div _ngcontent-ggu-c10="" novalidate="" id="pray" class="ng-dirty ng-valid ng-touched ng-submitted">
               <div _ngcontent-ggu-c10="" class="col-lg-3 mb-4 mx-auto"><textarea _ngcontent-ggu-c10="" rows="4"
                   formcontrolname="desire" placeholder="Mong muốn của bạn..."
-                  class="form-control bg-none ng-dirty ng-valid ng-touched"></textarea></div><button
+                  class="form-control bg-none ng-dirty ng-valid ng-touched" id="mongmuon"></textarea></div><button
                 _ngcontent-ggu-c10="" type="submit" class="btn btn-outline-primary ripple-surface" id="thaphuong">Thắp
                 Hương</button>
             </d>
@@ -1926,7 +1926,7 @@
   <script type="text/javascript" src="Pray_files/smoke.js"></script>
   <script>
     $('#thaphuong').on('click', function () {
-      if ($('#thaphuong').val() != '') {
+      if ($('#mongmuon').val() != '') {
         $('.nhang').addClass('aos-init aos-animate');
         document.getElementById('sound').play();
         $('#pray').find('textarea, button').prop('disabled', true);
