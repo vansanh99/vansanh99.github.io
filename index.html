@@ -1926,36 +1926,38 @@
   <script type="text/javascript" src="Pray_files/smoke.js"></script>
   <script>
     $('#thaphuong').on('click', function () {
-      $('.nhang').addClass('aos-init aos-animate');
-      document.getElementById('sound').play();
-      $('#pray').find('textarea, button').prop('disabled', true);
-      var sakura = new Sakura('body');
-      var canvas = document.getElementById('canvas')
-      var ctx = canvas.getContext('2d')
-      canvas.width = innerWidth
-      canvas.height = innerHeight
-
-      var party = smokemachine(ctx, [18, 16, 54])
-      party.start() // start animating
-      party.setPreDrawCallback(function (dt) {
-        party.addSmoke(innerWidth / 2, innerHeight / 4, .3)
+      if ($('#thaphuong').val() != '') {
+        $('.nhang').addClass('aos-init aos-animate');
+        document.getElementById('sound').play();
+        $('#pray').find('textarea, button').prop('disabled', true);
+        var sakura = new Sakura('body');
+        var canvas = document.getElementById('canvas')
+        var ctx = canvas.getContext('2d')
         canvas.width = innerWidth
         canvas.height = innerHeight
-      })
 
-      // party.addsmoke(innerWidth/2, innerHeight, 100)
-      // onclick=e => {
-      // 	console.log(e)
-      // 	party.step()
-      // }
+        var party = smokemachine(ctx, [18, 16, 54])
+        party.start() // start animating
+        party.setPreDrawCallback(function (dt) {
+          party.addSmoke(innerWidth / 2, innerHeight / 4, .3)
+          canvas.width = innerWidth
+          canvas.height = innerHeight
+        })
 
-      /*onmousemove = function (e) {
-        var x = e.clientX
-        var y = e.clientY
-        var n = .5
-        var t = Math.floor(Math.random() * 200) + 3800
-        party.addsmoke(x, y, n, t)
-      }*/
+        // party.addsmoke(innerWidth/2, innerHeight, 100)
+        // onclick=e => {
+        // 	console.log(e)
+        // 	party.step()
+        // }
+
+        /*onmousemove = function (e) {
+          var x = e.clientX
+          var y = e.clientY
+          var n = .5
+          var t = Math.floor(Math.random() * 200) + 3800
+          party.addsmoke(x, y, n, t)
+        }*/
+      }
     });
 
   </script>
