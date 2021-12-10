@@ -5,7 +5,6 @@
   <meta http-equiv="content-type" content="text/html; charset=UTF-8">
   <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
   <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="shortcut icon" href="">
   <link href="Pray_files/all.css" rel="stylesheet">
@@ -1886,39 +1885,39 @@
       min-height: 100vh;
     }
   </style>
-
-  <app-root _nghost-ggu-c10="" ng-version="13.0.1"><canvas _ngcontent-ggu-c10="" id="canvas"></canvas>
-    <div _ngcontent-ggu-c10="" id="hi">
-      <header _ngcontent-ggu-c10="" class="header">
-        <div _ngcontent-ggu-c10="" class="container">
-          <div _ngcontent-ggu-c10="" class="row mx-auto pointer">
-            <div _ngcontent-ggu-c10="" class="text-center ripple ripple-surface-info disable-select ripple-surface"><a
-                _ngcontent-ggu-c10="" class="relative"><img _ngcontent-ggu-c10="" src="Pray_files/VS466.png" alt=""
-                  class="img-fluid ban-tho rounded pt-5" style="height: 400px;"><img _ngcontent-ggu-c10=""
-                  src="Pray_files/nhang.png" alt="" data-aos="fade-down" data-aos-duration="2500"
-                  class="text-center nhang" style="height: 100px;">
-                <div _ngcontent-ggu-c10="" class="col-lg-3 col-sm-3 mx-auto mt-5"></div>
-                <div _ngcontent-ggu-c10="" class="progress mt-5">
-                  <div _ngcontent-ggu-c10="" role="progressbar" aria-valuenow="100" aria-valuemin="0"
-                    aria-valuemax="100" class="progress-bar progress-bar-striped bg-danger w-100"></div>
-                </div>
-              </a></div>
-          </div>
-          <div _ngcontent-ggu-c10="" class="content text-center mt-5">
-            <div _ngcontent-ggu-c10="" novalidate="" id="pray" class="ng-dirty ng-valid ng-touched ng-submitted">
-              <div _ngcontent-ggu-c10="" class="col-lg-3 mb-4 mx-auto"><textarea _ngcontent-ggu-c10="" rows="4"
-                  formcontrolname="desire" placeholder="Mong muốn của bạn..."
-                  class="form-control bg-none ng-dirty ng-valid ng-touched" id="mongmuon"></textarea></div><button
-                _ngcontent-ggu-c10="" type="submit" class="btn btn-outline-primary ripple-surface" id="thaphuong">Thắp
-                Hương</button>
-            </d>
-          </div>
-        </div><audio _ngcontent-ggu-c10="" id="sound" controls="controls" loop="" class="d-none">
-          <source _ngcontent-ggu-c10="" src="Pray_files/backgound.mp3" type="audio/mp3">
-        </audio>
-      </header>
+  <canvas _ngcontent-ggu-c10="" id="canvas"></canvas>
+  <div _ngcontent-ggu-c10="" id="hi">
+    <div _ngcontent-ggu-c10="" class="container">
+      <div _ngcontent-ggu-c10="" class="row mx-auto pointer">
+        <div _ngcontent-ggu-c10="" class="text-center ripple ripple-surface-info disable-select ripple-surface">
+          <a _ngcontent-ggu-c10="" class="relative">
+            <img _ngcontent-ggu-c10="" src="Pray_files/VS466.png" alt="" class="img-fluid ban-tho rounded pt-5"
+              style="height: 400px;">
+            <img _ngcontent-ggu-c10="" src="Pray_files/nhang.png" alt="" data-aos="fade-down" data-aos-duration="2500"
+              class="text-center nhang" style="height: 100px;">
+            <div _ngcontent-ggu-c10="" class="col-lg-3 col-sm-3 mx-auto mt-5"></div>
+            <div _ngcontent-ggu-c10="" class="progress mt-5">
+              <div _ngcontent-ggu-c10="" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"
+                class="progress-bar progress-bar-striped bg-danger w-100"></div>
+            </div>
+          </a>
+        </div>
+      </div>
+      <div _ngcontent-ggu-c10="" class="content text-center mt-5">
+        <div _ngcontent-ggu-c10="" novalidate="" id="pray" class="ng-dirty ng-valid ng-touched ng-submitted">
+          <div _ngcontent-ggu-c10="" class="col-lg-3 mb-4 mx-auto"><textarea _ngcontent-ggu-c10="" rows="4"
+              formcontrolname="desire" placeholder="Mong muốn của bạn..."
+              class="form-control bg-none ng-dirty ng-valid ng-touched" id="mongmuon"></textarea></div><button
+            _ngcontent-ggu-c10="" type="submit" class="btn btn-outline-primary ripple-surface" id="thaphuong">Thắp
+            Hương</button>
+          </d>
+        </div>
+      </div>
     </div>
-  </app-root>
+  </div>
+  <audio _ngcontent-ggu-c10="" id="sound" controls="controls" loop="" class="d-none">
+    <source _ngcontent-ggu-c10="" src="Pray_files/backgound.mp3" type="audio/mp3">
+  </audio>
 
   <script type="text/javascript" src="Pray_files/mdb.js"></script>
   <script type="text/javascript" src="Pray_files/jquery-3.js"></script>
@@ -1930,7 +1929,7 @@
         $('.nhang').addClass('aos-init aos-animate');
         document.getElementById('sound').play();
         $('#pray').find('textarea, button').prop('disabled', true);
-        var sakura = new Sakura('body');
+        const sakura = new Sakura('body');
         var canvas = document.getElementById('canvas')
         var ctx = canvas.getContext('2d')
         canvas.width = innerWidth
