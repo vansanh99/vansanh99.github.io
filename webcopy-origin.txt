@@ -1,0 +1,1784 @@
+Uri: https://fonts.googleapis.com/css?display=swap&family=Montserrat:100
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fptthanhhoas.com/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/arsenal-vs-leicester-city-30-10-man-dau-tri-day-cang-thang/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\arsenal-vs-leicester-city-30-10-man-dau-tri-day-cang-thang\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/author/fpt/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\author\fpt\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/author/fpt/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\author\fpt\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/author/fpt/page/2/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\author\fpt\page\2\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/author/nhuy/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\author\nhuy\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/author/nhuy/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\author\nhuy\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/author/quangdv23/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\author\quangdv23\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/author/quangdv23/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\author\quangdv23\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/author/thanhhang/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\author\thanhhang\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/author/thanhhang/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\author\thanhhang\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/chao-moi-nguoi/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\chao-moi-nguoi\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/danh-muc/khong-phan-loai/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\danh-muc\khong-phan-loai\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/danh-muc/khong-phan-loai/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\danh-muc\khong-phan-loai\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/danh-muc/khuyen-mai/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\danh-muc\khuyen-mai\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/danh-muc/khuyen-mai/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\danh-muc\khuyen-mai\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/danh-muc/tin-tuc/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\danh-muc\tin-tuc\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/danh-muc/tin-tuc/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\danh-muc\tin-tuc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/danh-muc/tin-tuc/page/2/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\danh-muc\tin-tuc\page\2\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/don-tuan-moi-cung-loat-phim-dac-sac-cho-tre-tren-ung-dung-foxy-cua-truyen-hinh-fpt/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\don-tuan-moi-cung-loat-phim-dac-sac-cho-tre-tren-ung-dung-foxy-cua-truyen-hinh-fpt\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/fpt-nam-thu-9-doc-chiem-linh-vuc-cong-nghe-trong-danh-sach-top-50-cua-forbes/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\fpt-nam-thu-9-doc-chiem-linh-vuc-cong-nghe-trong-danh-sach-top-50-cua-forbes\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/fpt-telecom-tang-gap-doi-bang-thong-mien-phi-cho-toan-bo-khach-hang/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\fpt-telecom-tang-gap-doi-bang-thong-mien-phi-cho-toan-bo-khach-hang\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/goi-cuoc-max-va-vip-cua-fpt-play-co-gi-ho-gia-dinh-hay-khach-hang-ca-nhan-nen-mua-khong/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\goi-cuoc-max-va-vip-cua-fpt-play-co-gi-ho-gia-dinh-hay-khach-hang-ca-nhan-nen-mua-khong\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/goi-max-tren-fpt-play-giai-tri-tha-ga-chi-voi-88k-thang/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\goi-max-tren-fpt-play-giai-tri-tha-ga-chi-voi-88k-thang\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/goi-vip-tren-fpt-play-thoa-man-nhu-cau-giai-tri-cho-ca-gia-dinh/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\goi-vip-tren-fpt-play-thoa-man-nhu-cau-giai-tri-cho-ca-gia-dinh\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/hot-ngay-loat-deal-khuyen-mai-hap-dan-trong-thang-6-tu-fpt-play/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\hot-ngay-loat-deal-khuyen-mai-hap-dan-trong-thang-6-tu-fpt-play\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/internet-va-nhung-loi-ich-ve-no/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\internet-va-nhung-loi-ich-ve-no\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/khung-hoang-dang-trao-o-manchester-united/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\khung-hoang-dang-trao-o-manchester-united\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/khuyen-mai-internet-thang-1/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\khuyen-mai-internet-thang-1\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/lan-cuoi-cung-chay-cung-running-man-hoang-tu-chau-a-lee-kwang-soo-khep-lai-hanh-trinh-11-nam-cong-hien/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\lan-cuoi-cung-chay-cung-running-man-hoang-tu-chau-a-lee-kwang-soo-khep-lai-hanh-trinh-11-nam-cong-hien\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/lap-mang-fpt-ha-noi/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\lap-mang-fpt-ha-noi\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/loat-bom-tan-tu-vu-tru-dien-anh-dc-khien-nguoi-ham-mo-phat-cuong/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\loat-bom-tan-tu-vu-tru-dien-anh-dc-khien-nguoi-ham-mo-phat-cuong\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/loi-ich-cua-viec-tap-luyen-giup-tang-suc-de-khang-bao-ve-ban-than-khoi-dich-covid/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\loi-ich-cua-viec-tap-luyen-giup-tang-suc-de-khang-bao-ve-ban-than-khoi-dich-covid\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/m-u-vs-liverpool-con-ac-mong-chua-tung-co-cua-quy-do/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\m-u-vs-liverpool-con-ac-mong-chua-tung-co-cua-quy-do\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/mbc-tro-lai-voi-duong-dua-co-trang-sau-hai-nam-co-tay-ao-mau-do-co-lam-nen-chuyen/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\mbc-tro-lai-voi-duong-dua-co-trang-sau-hai-nam-co-tay-ao-mau-do-co-lam-nen-chuyen\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/ngon-tinh-hoan-my-show-to-tinh-quy-tu-nhieu-trai-tai-gai-sac/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\ngon-tinh-hoan-my-show-to-tinh-quy-tu-nhieu-trai-tai-gai-sac\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/nhan-dinh-tran-tuyen-viet-nam-vs-a-rap-xe-ut-quyet-tam-doi-no/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\nhan-dinh-tran-tuyen-viet-nam-vs-a-rap-xe-ut-quyet-tam-doi-no\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/nhan-ngay-uu-dai-thang-6-tu-fpt-play-box-bung-no-cam-xuc-cung-dam-me-bong-da/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\nhan-ngay-uu-dai-thang-6-tu-fpt-play-box-bung-no-cam-xuc-cung-dam-me-bong-da\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/nhung-quy-co-say-xin-ong-chu-si-won-suju-chao-thua-hoi-chi-em-tren-ban-nhau/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\nhung-quy-co-say-xin-ong-chu-si-won-suju-chao-thua-hoi-chi-em-tren-ban-nhau\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/phim-hay-20-10-chi-em-nhat-dinh-phai-xem-ngay-top-phim-hot-ve-phai-nu-nay/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\phim-hay-20-10-chi-em-nhat-dinh-phai-xem-ngay-top-phim-hot-ve-phai-nu-nay\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/san-ngay-uu-dai-cuc-hap-dan-khi-update-vi-foxpay-phien-ban-2-2/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\san-ngay-uu-dai-cuc-hap-dan-khi-update-vi-foxpay-phien-ban-2-2\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/startalk-sao-song-that-dien-vien-huyen-thach-va-nhung-su-that-duoc-he-lo/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\startalk-sao-song-that-dien-vien-huyen-thach-va-nhung-su-that-duoc-he-lo\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/ac-mong-m-u/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\ac-mong-m-u\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/ac-mong-m-u/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\ac-mong-m-u\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/arsenal-vs-leicester-city/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\arsenal-vs-leicester-city\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/arsenal-vs-leicester-city/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\arsenal-vs-leicester-city\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/arsenal/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\arsenal\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/arsenal/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\arsenal\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/birds-of-prey/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\birds-of-prey\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/birds-of-prey/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\birds-of-prey\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/bong-da/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\bong-da\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/bong-da/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\bong-da\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/co-tay-ao-mau-do/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\co-tay-ao-mau-do\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/co-tay-ao-mau-do/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\co-tay-ao-mau-do\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/danet/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\danet\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/danet/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\danet\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/dang-ky-goi-max/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\dang-ky-goi-max\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/dang-ky-goi-max/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\dang-ky-goi-max\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/dc-fpt-play/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\dc-fpt-play\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/dc-fpt-play/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\dc-fpt-play\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/dich-vu-vip/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\dich-vu-vip\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/dich-vu-vip/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\dich-vu-vip\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/eun-ji/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\eun-ji\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/eun-ji/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\eun-ji\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/fpt-play/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\fpt-play\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/fpt-play/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\fpt-play\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/fpt-telecom/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\fpt-telecom\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/fpt-telecom/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\fpt-telecom\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/galaxy-play/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\galaxy-play\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/galaxy-play/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\galaxy-play\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/gameshow/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\gameshow\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/gameshow/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\gameshow\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/goi-cuoc-fpt-play/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\goi-cuoc-fpt-play\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/goi-cuoc-fpt-play/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\goi-cuoc-fpt-play\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/goi-dich-vu-fpt-play/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\goi-dich-vu-fpt-play\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/goi-dich-vu-fpt-play/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\goi-dich-vu-fpt-play\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/goi-max-fpt/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\goi-max-fpt\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/goi-max-fpt/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\goi-max-fpt\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/goi-max/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\goi-max\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/goi-max/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\goi-max\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/goi-sport/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\goi-sport\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/goi-sport/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\goi-sport\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/goi-vip/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\goi-vip\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/goi-vip/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\goi-vip\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/green-lantern/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\green-lantern\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/green-lantern/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\green-lantern\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/hallween/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\hallween\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/hallween/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\hallween\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/han-sun-hwa/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\han-sun-hwa\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/han-sun-hwa/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\han-sun-hwa\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/hlv-solskjaer/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\hlv-solskjaer\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/hlv-solskjaer/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\hlv-solskjaer\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/huyen-thach/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\huyen-thach\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/huyen-thach/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\huyen-thach\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/joker/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\joker\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/joker/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\joker\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/justice-league-the-flashpoint-paradox/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\justice-league-the-flashpoint-paradox\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/justice-league-the-flashpoint-paradox/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\justice-league-the-flashpoint-paradox\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/k/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\k\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/k/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\k\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/khung-hoang-cua-mu/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\khung-hoang-cua-mu\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/khung-hoang-cua-mu/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\khung-hoang-cua-mu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/khung-hoang-m-u/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\khung-hoang-m-u\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/khung-hoang-m-u/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\khung-hoang-m-u\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/khuyen-mai-fpt-play/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\khuyen-mai-fpt-play\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/khuyen-mai-fpt-play/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\khuyen-mai-fpt-play\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/khuyen-mai-fpt/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\khuyen-mai-fpt\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/khuyen-mai-fpt/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\khuyen-mai-fpt\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/lee-junho/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\lee-junho\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/lee-junho/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\lee-junho\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/lee-se-young/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\lee-se-young\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/lee-se-young/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\lee-se-young\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/lee-sun-bin/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\lee-sun-bin\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/lee-sun-bin/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\lee-sun-bin\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/leicester-city/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\leicester-city\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/leicester-city/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\leicester-city\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/m-u-vs-liverpool/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\m-u-vs-liverpool\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/m-u-vs-liverpool/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\m-u-vs-liverpool\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/m-u/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\m-u\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/m-u/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\m-u\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/manchester-united/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\manchester-united\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/manchester-united/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\manchester-united\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/mu-khung-hoang/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\mu-khung-hoang\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/mu-khung-hoang/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\mu-khung-hoang\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/ngoai-hang-anh/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\ngoai-hang-anh\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/ngoai-hang-anh/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\ngoai-hang-anh\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/ngon-tinh-hoan-my/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\ngon-tinh-hoan-my\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/ngon-tinh-hoan-my/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\ngon-tinh-hoan-my\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/nguoi-noi-tieng/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\nguoi-noi-tieng\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/nguoi-noi-tieng/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\nguoi-noi-tieng\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/nhung-nguoi-phu-nu-be-nho/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\nhung-nguoi-phu-nu-be-nho\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/nhung-nguoi-phu-nu-be-nho/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\nhung-nguoi-phu-nu-be-nho\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/nhung-quy-co-say-xin/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\nhung-quy-co-say-xin\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/nhung-quy-co-say-xin/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\nhung-quy-co-say-xin\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/nhung-thien-than-cua-charlie/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\nhung-thien-than-cua-charlie\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/nhung-thien-than-cua-charlie/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\nhung-thien-than-cua-charlie\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/phim-hay/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\phim-hay\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/phim-hay/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\phim-hay\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/phim-kinh-di/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\phim-kinh-di\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/phim-kinh-di/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\phim-kinh-di\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/phim-my-tren-fpt-play/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\phim-my-tren-fpt-play\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/phim-my-tren-fpt-play/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\phim-my-tren-fpt-play\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/phu-dau/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\phu-dau\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/phu-dau/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\phu-dau\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/phu-nu/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\phu-nu\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/phu-nu/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\phu-nu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/show-to-tinh/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\show-to-tinh\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/show-to-tinh/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\show-to-tinh\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/si-won/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\si-won\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/si-won/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\si-won\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/startalk-sao-song-that/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\startalk-sao-song-that\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/startalk-sao-song-that/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\startalk-sao-song-that\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/su-quyen-ru-vinh-cuu/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\su-quyen-ru-vinh-cuu\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/su-quyen-ru-vinh-cuu/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\su-quyen-ru-vinh-cuu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/suicide-squad/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\suicide-squad\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/suicide-squad/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\suicide-squad\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/talkshow-tro-chuyen/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\talkshow-tro-chuyen\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/talkshow-tro-chuyen/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\talkshow-tro-chuyen\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/the-thao-fpt-play/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\the-thao-fpt-play\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/the-thao-fpt-play/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\the-thao-fpt-play\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/the-thao/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\the-thao\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/the-thao/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\the-thao\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/tv-shows-fpt-play/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\tv-shows-fpt-play\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/tv-shows-fpt-play/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\tv-shows-fpt-play\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tag/vck-u23-chau-a-2022/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\vck-u23-chau-a-2022\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tag/vck-u23-chau-a-2022/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tag\vck-u23-chau-a-2022\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/blog/tan-huong-ngay-combo-internet-va-camera-của-fpt-telecom-gia-hap-dan/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tan-huong-ngay-combo-internet-va-camera-của-fpt-telecom-gia-hap-dan\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/tuyen-tap-phim-kinh-di-am-anh-tot-cung-khai-vi-cho-mua-halloween-nam-nay/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\tuyen-tap-phim-kinh-di-am-anh-tot-cung-khai-vi-cho-mua-halloween-nam-nay\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/blog/vck-u23-chau-a-2022-se-duoc-phat-song-tron-ven-va-doc-quyen-tren-fpt-play/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\blog\vck-u23-chau-a-2022-se-duoc-phat-song-tron-ven-va-doc-quyen-tren-fpt-play\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/camera-fpt/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\camera-fpt\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/chinh-sach-bao-mat/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\chinh-sach-bao-mat\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/chinh-sach-bao-mat/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\chinh-sach-bao-mat\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/chinh-sach-thanh-toan/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\chinh-sach-thanh-toan\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/combo-internet-truyen-hinh/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\combo-internet-truyen-hinh\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/comments/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/dieu-khoan-su-dung-website/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\dieu-khoan-su-dung-website\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/feed/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fptthanhhoas.com/fpt-play/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\fpt-play\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/internet-ca-nhan/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\internet-ca-nhan\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/internet-doanh-nghiep/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\internet-doanh-nghiep\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/lien-he/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\lien-he\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/playbox-fpt/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\playbox-fpt\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/playbox-fpt/fpt-play-box-2020/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\playbox-fpt\fpt-play-box-2020\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/playbox-fpt/fpt-play-box-s590/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\playbox-fpt\fpt-play-box-s590\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/tv-samsung/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\tv-samsung\index.htm
+Content Type: text/html
+
+Uri: https://fptthanhhoas.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.6.1
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://fptthanhhoas.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.6.1
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://fptthanhhoas.com/wp-content/plugins/ml-slider/assets/metaslider/public.css?ver=3.27.5
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\plugins\ml-slider\assets\metaslider\public.css
+Content Type: text/css
+
+Uri: https://fptthanhhoas.com/wp-content/plugins/ml-slider/assets/sliders/flexslider/bg_direction_nav.png
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\plugins\ml-slider\assets\sliders\flexslider\bg_direction_nav.png
+Content Type: image/png
+
+Uri: https://fptthanhhoas.com/wp-content/plugins/ml-slider/assets/sliders/flexslider/flexslider.css?ver=3.27.5
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\plugins\ml-slider\assets\sliders\flexslider\flexslider.css
+Content Type: text/css
+
+Uri: https://fptthanhhoas.com/wp-content/plugins/ml-slider/assets/sliders/flexslider/fonts/flexslider-icon.eot
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\plugins\ml-slider\assets\sliders\flexslider\fonts\flexslider-icon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://fptthanhhoas.com/wp-content/plugins/ml-slider/assets/sliders/flexslider/fonts/flexslider-icon.eot?
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\plugins\ml-slider\assets\sliders\flexslider\fonts\flexslider-icon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://fptthanhhoas.com/wp-content/plugins/ml-slider/assets/sliders/flexslider/fonts/flexslider-icon.svg
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\plugins\ml-slider\assets\sliders\flexslider\fonts\flexslider-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://fptthanhhoas.com/wp-content/plugins/ml-slider/assets/sliders/flexslider/fonts/flexslider-icon.ttf
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\plugins\ml-slider\assets\sliders\flexslider\fonts\flexslider-icon.ttf
+Content Type: application/octet-stream
+
+Uri: https://fptthanhhoas.com/wp-content/plugins/ml-slider/assets/sliders/flexslider/fonts/flexslider-icon.woff
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\plugins\ml-slider\assets\sliders\flexslider\fonts\flexslider-icon.woff
+Content Type: font/woff
+
+Uri: https://fptthanhhoas.com/wp-content/plugins/ml-slider/assets/sliders/flexslider/jquery.flexslider.min.js?ver=3.27.5
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\plugins\ml-slider\assets\sliders\flexslider\jquery.flexslider.min.js
+Content Type: application/javascript
+
+Uri: https://fptthanhhoas.com/wp-content/plugins/popup-maker/assets/css/pum-site.min.css?ver=1.16.7
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\plugins\popup-maker\assets\css\pum-site.min.css
+Content Type: text/css
+
+Uri: https://fptthanhhoas.com/wp-content/plugins/popup-maker/assets/js/site.min.js?defer&ver=1.16.7
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\plugins\popup-maker\assets\js\site.min.js
+Content Type: application/javascript
+
+Uri: https://fptthanhhoas.com/wp-content/plugins/table-of-contents-plus/front.min.js?ver=2106
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\plugins\table-of-contents-plus\front.min.js
+Content Type: application/javascript
+
+Uri: https://fptthanhhoas.com/wp-content/plugins/table-of-contents-plus/screen.min.css?ver=2106
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\plugins\table-of-contents-plus\screen.min.css
+Content Type: text/css
+
+Uri: https://fptthanhhoas.com/wp-content/themes/vung5/assets/css/fl-icons.css?ver=3.12
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\themes\vung5\assets\css\fl-icons.css
+Content Type: text/css
+
+Uri: https://fptthanhhoas.com/wp-content/themes/vung5/assets/css/flatsome.css?ver=3.13.3
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\themes\vung5\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: https://fptthanhhoas.com/wp-content/themes/vung5/assets/css/fonts/UTM Avo.ttf
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\themes\vung5\assets\css\fonts\UTM Avo.ttf
+Content Type: application/octet-stream
+
+Uri: https://fptthanhhoas.com/wp-content/themes/vung5/assets/css/fonts/UTM AvoBold.ttf
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\themes\vung5\assets\css\fonts\UTM AvoBold.ttf
+Content Type: application/octet-stream
+
+Uri: https://fptthanhhoas.com/wp-content/themes/vung5/assets/css/icons/fl-icons.eot
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\themes\vung5\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://fptthanhhoas.com/wp-content/themes/vung5/assets/css/icons/fl-icons.svg
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\themes\vung5\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://fptthanhhoas.com/wp-content/themes/vung5/assets/css/icons/fl-icons.ttf
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\themes\vung5\assets\css\icons\fl-icons.ttf
+Content Type: application/octet-stream
+
+Uri: https://fptthanhhoas.com/wp-content/themes/vung5/assets/css/icons/fl-icons.woff
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\themes\vung5\assets\css\icons\fl-icons.woff
+Content Type: font/woff
+
+Uri: https://fptthanhhoas.com/wp-content/themes/vung5/assets/css/icons/fl-icons.woff2
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\themes\vung5\assets\css\icons\fl-icons.woff2
+Content Type: font/woff2
+
+Uri: https://fptthanhhoas.com/wp-content/themes/vung5/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\themes\vung5\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: https://fptthanhhoas.com/wp-content/themes/vung5/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\themes\vung5\assets\img\underline.png
+Content Type: image/png
+
+Uri: https://fptthanhhoas.com/wp-content/themes/vung5/assets/js/flatsome.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\themes\vung5\assets\js\flatsome.js
+Content Type: application/javascript
+
+Uri: https://fptthanhhoas.com/wp-content/themes/vung5/fonts/UTM Akashi.ttf
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\themes\vung5\fonts\UTM Akashi.ttf
+Content Type: application/octet-stream
+
+Uri: https://fptthanhhoas.com/wp-content/themes/vung5/fonts/UTM Aristote.ttf
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\themes\vung5\fonts\UTM Aristote.ttf
+Content Type: application/octet-stream
+
+Uri: https://fptthanhhoas.com/wp-content/themes/vung5/fonts/UTM Avo.ttf
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\themes\vung5\fonts\UTM Avo.ttf
+Content Type: application/octet-stream
+
+Uri: https://fptthanhhoas.com/wp-content/themes/vung5/fonts/UTM AvoBold.ttf
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\themes\vung5\fonts\UTM AvoBold.ttf
+Content Type: application/octet-stream
+
+Uri: https://fptthanhhoas.com/wp-content/themes/vung5/images/bg-1-1.jpg
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\themes\vung5\images\bg-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://fptthanhhoas.com/wp-content/themes/vung5/images/bg-2.png
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\themes\vung5\images\bg-2.png
+Content Type: image/png
+
+Uri: https://fptthanhhoas.com/wp-content/themes/vung5/images/bg-camera-1.jpg
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\themes\vung5\images\bg-camera-1.jpg
+Content Type: image/jpeg
+
+Uri: https://fptthanhhoas.com/wp-content/themes/vung5/images/bg-playbox.jpg
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\themes\vung5\images\bg-playbox.jpg
+Content Type: image/jpeg
+
+Uri: https://fptthanhhoas.com/wp-content/themes/vung5/images/ico-check.png
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\themes\vung5\images\ico-check.png
+Content Type: image/png
+
+Uri: https://fptthanhhoas.com/wp-content/themes/vung5/images/ico-check1.png
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\themes\vung5\images\ico-check1.png
+Content Type: image/png
+
+Uri: https://fptthanhhoas.com/wp-content/themes/vung5/images/icon-2.jpg
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\themes\vung5\images\icon-2.jpg
+Content Type: image/jpeg
+
+Uri: https://fptthanhhoas.com/wp-content/themes/vung5/images/icon-3.jpg
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\themes\vung5\images\icon-3.jpg
+Content Type: image/jpeg
+
+Uri: https://fptthanhhoas.com/wp-content/themes/vung5/images/icon-4.jpg
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\themes\vung5\images\icon-4.jpg
+Content Type: image/jpeg
+
+Uri: https://fptthanhhoas.com/wp-content/themes/vung5/images/icon-5.jpg
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\themes\vung5\images\icon-5.jpg
+Content Type: image/jpeg
+
+Uri: https://fptthanhhoas.com/wp-content/themes/vung5/images/icon-li.png
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\themes\vung5\images\icon-li.png
+Content Type: image/png
+
+Uri: https://fptthanhhoas.com/wp-content/themes/vung5/images/icon-qs.jpg
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\themes\vung5\images\icon-qs.jpg
+Content Type: image/jpeg
+
+Uri: https://fptthanhhoas.com/wp-content/themes/vung5/images/IP66.jpg
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\themes\vung5\images\IP66.jpg
+Content Type: image/jpeg
+
+Uri: https://fptthanhhoas.com/wp-content/themes/vung5/images/playbox.jpg
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\themes\vung5\images\playbox.jpg
+Content Type: image/jpeg
+
+Uri: https://fptthanhhoas.com/wp-content/themes/vung5/inc/extensions/flatsome-instant-page/flatsome-instant-page.js?ver=1.2.1
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\themes\vung5\inc\extensions\flatsome-instant-page\flatsome-instant-page.js
+Content Type: application/javascript
+
+Uri: https://fptthanhhoas.com/wp-content/themes/vung5/inc/extensions/flatsome-lazy-load/flatsome-lazy-load.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\themes\vung5\inc\extensions\flatsome-lazy-load\flatsome-lazy-load.js
+Content Type: application/javascript
+
+Uri: https://fptthanhhoas.com/wp-content/themes/vung5/inc/extensions/flatsome-live-search/flatsome-live-search.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\themes\vung5\inc\extensions\flatsome-live-search\flatsome-live-search.js
+Content Type: application/javascript
+
+Uri: https://fptthanhhoas.com/wp-content/themes/vung5/style.css?ver=3.13.3
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\themes\vung5\style.css
+Content Type: text/css
+
+Uri: https://fptthanhhoas.com/wp-content/uploads/sites/400/2021/06/cropped-favi-1-180x180.jpg
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\uploads\sites\400\2021\06\cropped-favi-1-180x180.jpg
+Content Type: image/jpeg
+
+Uri: https://fptthanhhoas.com/wp-content/uploads/sites/400/2021/06/cropped-favi-1-192x192.jpg
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\uploads\sites\400\2021\06\cropped-favi-1-192x192.jpg
+Content Type: image/jpeg
+
+Uri: https://fptthanhhoas.com/wp-content/uploads/sites/400/2021/06/cropped-favi-1-32x32.jpg
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\uploads\sites\400\2021\06\cropped-favi-1-32x32.jpg
+Content Type: image/jpeg
+
+Uri: https://fptthanhhoas.com/wp-content/uploads/sites/400/2021/06/dathongbao.png
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\uploads\sites\400\2021\06\dathongbao.png
+Content Type: image/png
+
+Uri: https://fptthanhhoas.com/wp-content/uploads/sites/400/2021/06/face.png
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\uploads\sites\400\2021\06\face.png
+Content Type: image/png
+
+Uri: https://fptthanhhoas.com/wp-content/uploads/sites/400/2021/06/hinhanh-1024x804.jpg
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\uploads\sites\400\2021\06\hinhanh-1024x804.jpg
+Content Type: image/jpeg
+
+Uri: https://fptthanhhoas.com/wp-content/uploads/sites/400/2021/06/playbox-2.jpg
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\uploads\sites\400\2021\06\playbox-2.jpg
+Content Type: image/jpeg
+
+Uri: https://fptthanhhoas.com/wp-content/uploads/sites/400/2021/06/zalo.png
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\uploads\sites\400\2021\06\zalo.png
+Content Type: image/png
+
+Uri: https://fptthanhhoas.com/wp-content/uploads/sites/400/2021/10/icon-call-nh.png
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-content\uploads\sites\400\2021\10\icon-call-nh.png
+Content Type: image/png
+
+Uri: https://fptthanhhoas.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://fptthanhhoas.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://fptthanhhoas.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-includes\js\hoverIntent.min.js
+Content Type: application/javascript
+
+Uri: https://fptthanhhoas.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://fptthanhhoas.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://fptthanhhoas.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.1
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://fptthanhhoas.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-includes\wlwmanifest.xml
+Content Type: text/xml
+
+Uri: https://fptthanhhoas.com/wp-json/
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2F
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Farsenal-vs-leicester-city-30-10-man-dau-tri-day-cang-thang%2F
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-36
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Farsenal-vs-leicester-city-30-10-man-dau-tri-day-cang-thang%2F&format=xml
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-37
+Content Type: text/xml
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Fchao-moi-nguoi%2F
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-82
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Fchao-moi-nguoi%2F&format=xml
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-83
+Content Type: text/xml
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Fdon-tuan-moi-cung-loat-phim-dac-sac-cho-tre-tren-ung-dung-foxy-cua-truyen-hinh-fpt%2F
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-78
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Fdon-tuan-moi-cung-loat-phim-dac-sac-cho-tre-tren-ung-dung-foxy-cua-truyen-hinh-fpt%2F&format=xml
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-79
+Content Type: text/xml
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Ffpt-nam-thu-9-doc-chiem-linh-vuc-cong-nghe-trong-danh-sach-top-50-cua-forbes%2F
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-72
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Ffpt-nam-thu-9-doc-chiem-linh-vuc-cong-nghe-trong-danh-sach-top-50-cua-forbes%2F&format=xml
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-73
+Content Type: text/xml
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Ffpt-telecom-tang-gap-doi-bang-thong-mien-phi-cho-toan-bo-khach-hang%2F
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-74
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Ffpt-telecom-tang-gap-doi-bang-thong-mien-phi-cho-toan-bo-khach-hang%2F&format=xml
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-75
+Content Type: text/xml
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Fgoi-cuoc-max-va-vip-cua-fpt-play-co-gi-ho-gia-dinh-hay-khach-hang-ca-nhan-nen-mua-khong%2F
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Fgoi-cuoc-max-va-vip-cua-fpt-play-co-gi-ho-gia-dinh-hay-khach-hang-ca-nhan-nen-mua-khong%2F&format=xml
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Fgoi-max-tren-fpt-play-giai-tri-tha-ga-chi-voi-88k-thang%2F
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Fgoi-max-tren-fpt-play-giai-tri-tha-ga-chi-voi-88k-thang%2F&format=xml
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Fgoi-vip-tren-fpt-play-thoa-man-nhu-cau-giai-tri-cho-ca-gia-dinh%2F
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-46
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Fgoi-vip-tren-fpt-play-thoa-man-nhu-cau-giai-tri-cho-ca-gia-dinh%2F&format=xml
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-47
+Content Type: text/xml
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Fhot-ngay-loat-deal-khuyen-mai-hap-dan-trong-thang-6-tu-fpt-play%2F
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Fhot-ngay-loat-deal-khuyen-mai-hap-dan-trong-thang-6-tu-fpt-play%2F&format=xml
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Finternet-va-nhung-loi-ich-ve-no%2F
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-70
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Finternet-va-nhung-loi-ich-ve-no%2F&format=xml
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-71
+Content Type: text/xml
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Fkhung-hoang-dang-trao-o-manchester-united%2F
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-50
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Fkhung-hoang-dang-trao-o-manchester-united%2F&format=xml
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-51
+Content Type: text/xml
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Fkhuyen-mai-internet-thang-1%2F
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Fkhuyen-mai-internet-thang-1%2F&format=xml
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Flan-cuoi-cung-chay-cung-running-man-hoang-tu-chau-a-lee-kwang-soo-khep-lai-hanh-trinh-11-nam-cong-hien%2F
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-76
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Flan-cuoi-cung-chay-cung-running-man-hoang-tu-chau-a-lee-kwang-soo-khep-lai-hanh-trinh-11-nam-cong-hien%2F&format=xml
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-77
+Content Type: text/xml
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Flap-mang-fpt-ha-noi%2F
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Flap-mang-fpt-ha-noi%2F&format=xml
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Float-bom-tan-tu-vu-tru-dien-anh-dc-khien-nguoi-ham-mo-phat-cuong%2F
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-48
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Float-bom-tan-tu-vu-tru-dien-anh-dc-khien-nguoi-ham-mo-phat-cuong%2F&format=xml
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-49
+Content Type: text/xml
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Floi-ich-cua-viec-tap-luyen-giup-tang-suc-de-khang-bao-ve-ban-than-khoi-dich-covid%2F
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-80
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Floi-ich-cua-viec-tap-luyen-giup-tang-suc-de-khang-bao-ve-ban-than-khoi-dich-covid%2F&format=xml
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-81
+Content Type: text/xml
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Fm-u-vs-liverpool-con-ac-mong-chua-tung-co-cua-quy-do%2F
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-42
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Fm-u-vs-liverpool-con-ac-mong-chua-tung-co-cua-quy-do%2F&format=xml
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-43
+Content Type: text/xml
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Fmbc-tro-lai-voi-duong-dua-co-trang-sau-hai-nam-co-tay-ao-mau-do-co-lam-nen-chuyen%2F
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Fmbc-tro-lai-voi-duong-dua-co-trang-sau-hai-nam-co-tay-ao-mau-do-co-lam-nen-chuyen%2F&format=xml
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Fngon-tinh-hoan-my-show-to-tinh-quy-tu-nhieu-trai-tai-gai-sac%2F
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Fngon-tinh-hoan-my-show-to-tinh-quy-tu-nhieu-trai-tai-gai-sac%2F&format=xml
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Fnhan-dinh-tran-tuyen-viet-nam-vs-a-rap-xe-ut-quyet-tam-doi-no%2F
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Fnhan-dinh-tran-tuyen-viet-nam-vs-a-rap-xe-ut-quyet-tam-doi-no%2F&format=xml
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Fnhan-ngay-uu-dai-thang-6-tu-fpt-play-box-bung-no-cam-xuc-cung-dam-me-bong-da%2F
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Fnhan-ngay-uu-dai-thang-6-tu-fpt-play-box-bung-no-cam-xuc-cung-dam-me-bong-da%2F&format=xml
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Fnhung-quy-co-say-xin-ong-chu-si-won-suju-chao-thua-hoi-chi-em-tren-ban-nhau%2F
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-40
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Fnhung-quy-co-say-xin-ong-chu-si-won-suju-chao-thua-hoi-chi-em-tren-ban-nhau%2F&format=xml
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-41
+Content Type: text/xml
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Fphim-hay-20-10-chi-em-nhat-dinh-phai-xem-ngay-top-phim-hot-ve-phai-nu-nay%2F
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-52
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Fphim-hay-20-10-chi-em-nhat-dinh-phai-xem-ngay-top-phim-hot-ve-phai-nu-nay%2F&format=xml
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-53
+Content Type: text/xml
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Fsan-ngay-uu-dai-cuc-hap-dan-khi-update-vi-foxpay-phien-ban-2-2%2F
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Fsan-ngay-uu-dai-cuc-hap-dan-khi-update-vi-foxpay-phien-ban-2-2%2F&format=xml
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Fstartalk-sao-song-that-dien-vien-huyen-thach-va-nhung-su-that-duoc-he-lo%2F
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-38
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Fstartalk-sao-song-that-dien-vien-huyen-thach-va-nhung-su-that-duoc-he-lo%2F&format=xml
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-39
+Content Type: text/xml
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Ftan-huong-ngay-combo-internet-va-camera-cu%25cc%2589a-fpt-telecom-gia-hap-dan%2F
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Ftan-huong-ngay-combo-internet-va-camera-cu%25cc%2589a-fpt-telecom-gia-hap-dan%2F&format=xml
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Ftuyen-tap-phim-kinh-di-am-anh-tot-cung-khai-vi-cho-mua-halloween-nam-nay%2F
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-44
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Ftuyen-tap-phim-kinh-di-am-anh-tot-cung-khai-vi-cho-mua-halloween-nam-nay%2F&format=xml
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-45
+Content Type: text/xml
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Fvck-u23-chau-a-2022-se-duoc-phat-song-tron-ven-va-doc-quyen-tren-fpt-play%2F
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fblog%2Fvck-u23-chau-a-2022-se-duoc-phat-song-tron-ven-va-doc-quyen-tren-fpt-play%2F&format=xml
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fcamera-fpt%2F
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fcamera-fpt%2F&format=xml
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fchinh-sach-bao-mat%2F
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-58
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fchinh-sach-bao-mat%2F&format=xml
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-59
+Content Type: text/xml
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fchinh-sach-thanh-toan%2F
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-60
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fchinh-sach-thanh-toan%2F&format=xml
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-61
+Content Type: text/xml
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fcombo-internet-truyen-hinh%2F
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fcombo-internet-truyen-hinh%2F&format=xml
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fdieu-khoan-su-dung-website%2F
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-62
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fdieu-khoan-su-dung-website%2F&format=xml
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-63
+Content Type: text/xml
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Ffpt-play%2F
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Ffpt-play%2F&format=xml
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Finternet-ca-nhan%2F
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Finternet-ca-nhan%2F&format=xml
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Finternet-doanh-nghiep%2F
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Finternet-doanh-nghiep%2F&format=xml
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Flien-he%2F
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-64
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Flien-he%2F&format=xml
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-65
+Content Type: text/xml
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fplaybox-fpt%2F
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-54
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fplaybox-fpt%2F&format=xml
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-55
+Content Type: text/xml
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fplaybox-fpt%2Ffpt-play-box-2020%2F
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-66
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fplaybox-fpt%2Ffpt-play-box-2020%2F&format=xml
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-67
+Content Type: text/xml
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fplaybox-fpt%2Ffpt-play-box-s590%2F
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-68
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Fplaybox-fpt%2Ffpt-play-box-s590%2F&format=xml
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-69
+Content Type: text/xml
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Ftv-samsung%2F
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-56
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ffptthanhhoas.com%2Ftv-samsung%2F&format=xml
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\oembed\1.0\embed-57
+Content Type: text/xml
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/categories/1
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/categories/10
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\categories\10
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/categories/9
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\categories\9
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/pages/208
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\pages\208
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/pages/21
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\pages\21
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/pages/253
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\pages\253
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/pages/3
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\pages\3
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/pages/457
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\pages\457
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/pages/69
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\pages\69
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/pages/71
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\pages\71
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/pages/73
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\pages\73
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/pages/75
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\pages\75
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/pages/77
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\pages\77
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/pages/79
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\pages\79
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/pages/801
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\pages\801
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/pages/81
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\pages\81
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/pages/83
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\pages\83
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/posts/1
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\posts\1
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/posts/117
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\posts\117
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/posts/120
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\posts\120
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/posts/123
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\posts\123
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/posts/126
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\posts\126
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/posts/129
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\posts\129
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/posts/145
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\posts\145
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/posts/148
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\posts\148
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/posts/151
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\posts\151
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/posts/154
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\posts\154
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/posts/478
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\posts\478
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/posts/491
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\posts\491
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/posts/502
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\posts\502
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/posts/512
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\posts\512
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/posts/525
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\posts\525
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/posts/537
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\posts\537
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/posts/547
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\posts\547
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/posts/555
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\posts\555
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/posts/561
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\posts\561
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/posts/572
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\posts\572
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/posts/583
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\posts\583
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/posts/591
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\posts\591
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/posts/609
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\posts\609
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/posts/615
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\posts\615
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/posts/640
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\posts\640
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/posts/871
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\posts\871
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/posts/895
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\posts\895
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/posts/932
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\posts\932
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/12
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\12
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/13
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\13
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/16
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\16
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/17
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\17
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/18
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\18
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/19
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\19
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/20
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\20
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/21
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\21
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/22
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\22
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/23
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\23
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/24
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\24
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/25
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\25
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/26
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\26
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/27
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\27
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/28
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\28
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/29
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\29
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/30
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\30
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/31
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\31
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/32
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\32
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/33
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\33
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/34
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\34
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/35
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\35
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/36
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\36
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/37
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\37
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/38
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\38
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/39
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\39
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/40
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\40
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/41
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\41
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/42
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\42
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/43
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\43
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/44
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\44
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/45
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\45
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/46
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\46
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/47
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\47
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/48
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\48
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/49
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\49
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/50
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\50
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/51
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\51
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/52
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\52
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/53
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\53
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/54
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\54
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/55
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\55
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/56
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\56
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/57
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\57
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/58
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\58
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/59
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\59
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/60
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\60
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/61
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\61
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/62
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\62
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/63
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\63
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/64
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\64
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/65
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\65
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/66
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\66
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/67
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\67
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/68
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\68
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/69
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\69
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/70
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\70
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/71
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\71
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/72
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\72
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/73
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\73
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/74
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\74
+Content Type: application/json
+
+Uri: https://fptthanhhoas.com/wp-json/wp/v2/tags/75
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\wp-json\wp\v2\tags\75
+Content Type: application/json
+
+Uri: https://images.dmca.com/Badges/dmca_protected_sml_120m.png?ID=d6c9a045-e968-4399-a25a-d09775aebb41
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\Badges\dmca_protected_sml_120m.png
+Content Type: image/png
+
+Uri: https://www.google.com/recaptcha/api.js?onload=cf7srLoadCallback&render=explicit
+File Name: C:\Downloaded Web Sites\fptthanhhoas.com\recaptcha\api.js
+Content Type: text/javascript
+
