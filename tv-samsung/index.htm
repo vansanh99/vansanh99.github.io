@@ -533,18 +533,59 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 Xin cảm ơn!<br>
 <div role="form" class="wpcf7" id="wpcf7-f324-o1" lang="vi" dir="ltr">
 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
-<form action="https://api.web3forms.com/submit" method="post"><!-- Replace with your Access Key -->
-								<input type="hidden" name="access_key" value="75e02071-cccf-4e0e-8c38-64c59291d72c">
+<form method="POST" id="form"><!-- Replace with your Access Key -->
+								<input type="hidden" name="access_key" value="8f361934-e1b1-4fd4-9845-d60ec3c2b5cd">
 								<input type="hidden" name="from_name" value="Lapmanggfpt.com">
 								<input type="checkbox" name="botcheck" class="hidden" style="display: none;">
-								<div class="h-captcha" data-captcha="true"></div>
+								<div class="h-captcha" data-captcha="false"></div>
 								<input type="text" name="name" size="40" placeholder="Họ và tên">
 								<input type="email" name="email" size="40" placeholder="Email (Nếu có)">
 								<input type="tel" name="phone" size="40" placeholder="Số điện thoại*" required>
 								<textarea name="message" cols="40" rows="10" placeholder="Ghi chú (nếu có)"></textarea>
 								<input type="submit" value="GỬI">
+<div id="result"></div>
 							</form>
-<script src="https://web3forms.com/client/script.js" async defer></script></div></div>
+<script src="https://web3forms.com/client/script.js" async defer></script>
+<script>
+const form = document.getElementById('form');
+const result = document.getElementById('result');
+
+form.addEventListener('submit', function(e) {
+  e.preventDefault();
+  const formData = new FormData(form);
+  const object = Object.fromEntries(formData);
+  const json = JSON.stringify(object);
+  result.innerHTML = "Please wait..."
+
+    fetch('https://api.web3forms.com/submit', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+                'Accept': 'application/json'
+            },
+            body: json
+        })
+        .then(async (response) => {
+            let json = await response.json();
+            if (response.status == 200) {
+                result.innerHTML = "Form submitted successfully";
+            } else {
+                console.log(response);
+                result.innerHTML = json.message;
+            }
+        })
+        .catch(error => {
+            console.log(error);
+            result.innerHTML = "Something went wrong!";
+        })
+        .then(function() {
+            form.reset();
+            setTimeout(() => {
+                result.style.display = "none";
+            }, 3000);
+        });
+});
+</script></div></div>
 		</div>
 
 
